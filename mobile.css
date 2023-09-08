@@ -1,0 +1,29 @@
+/* Dispositivo = Desktops
+   Tela = com no mínimo 1281px */  
+@media (min-width: 1281px) {
+  /* CSS */
+}
+
+/* Dispositivo = Laptops, Desktops
+   Tela = 1025px a 1280px */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  /* CSS */
+}
+
+/* Dispositivo = Tablets, Ipads (retrato)
+   Tela = 768px a 1024px */
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* CSS */
+}
+
+/* Dispositivo = Tablets e celulares de baixa resolução (paisagem)
+   Tela = 481px a 767px */
+@media (min-width: 481px) and (max-width: 767px) {
+  /* CSS */
+}
+
+/* Dispositivo = A maioria dos smartphones e celulares (retrato)
+   Tela = 320px a 480px */
+@media (min-width: 320px) and (max-width: 480px) {
+  /* CSS */
+}
